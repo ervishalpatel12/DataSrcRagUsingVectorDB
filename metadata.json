@@ -1,0 +1,6 @@
+{
+  "name": "PineVector - FastAPI & Pinecone Vector DB REST API",
+  "description": "Production-grade modular REST API architecture and interactive workbench for Pinecone vector database with separated upload, upgrade, and retrieve pipelines, real-time embeddings, and comprehensive business logic documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
